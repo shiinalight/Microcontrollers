@@ -1,0 +1,8 @@
+Debug/
+Release/
+.metadata/
+*.log
+*.out
+*.obj
+*.d
+*.map
