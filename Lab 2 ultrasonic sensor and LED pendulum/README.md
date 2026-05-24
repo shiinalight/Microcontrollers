@@ -193,11 +193,7 @@ Lab 2 ultrasonic sensor and LED pendulum/
 
 # Image
 
-Add your oscilloscope image here:
-
-```markdown
-![Oscilloscope Result](oscilloscope.jpg)
-```
+![Oscilloscope Result](assets/Demo.png)
 
 ---
 
