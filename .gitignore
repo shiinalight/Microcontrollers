@@ -6,3 +6,4 @@ Release/
 *.obj
 *.d
 *.map
+ .DS_Store
